@@ -1,2 +1,2 @@
-admin Customer
+admin Admin
 zac Developer
