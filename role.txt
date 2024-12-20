@@ -1,6 +1,2 @@
-{
-    "users": [
-        {"username": "zac", "role": "Developer"},
-        {"username": "admin1", "role": "Administrator"}
-    ]
-}
+admin Customer
+zac Developer
